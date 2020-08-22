@@ -2,16 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Aug 22 17:09:32 2020
-
 @author: SwathySekar
+Reference documentation : https://matplotlib.org/api/patches_api.html
 """
-
-
-
-
-
-
-
 from matplotlib import pyplot as plt
 from matplotlib.patches import Rectangle,Circle,RegularPolygon
 
